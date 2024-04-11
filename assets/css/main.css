@@ -660,7 +660,7 @@ input, select, textarea {
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
     }
-    
+
     .space-after-pin {
       padding-right: 12px;
     }
@@ -1192,7 +1192,7 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/bg.jpg");
+			background-image: url("../../images/backgroundimage.jpeg");
 			background-position: center;
 			background-size: cover;
 			background-repeat: no-repeat;
